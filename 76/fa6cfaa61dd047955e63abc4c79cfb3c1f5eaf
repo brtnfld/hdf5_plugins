@@ -1,0 +1,23 @@
+.github/dependabot.yml
+  73ce419ca5498acd 1-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "76fa6cfaa61dd047955e63abc4c79cfb3c1f5eaf",
+  "prompts": {
+    "73ce419ca5498acd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "188c8156-b34f-451e-a476-992bf4134296",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "M. Scot Breitenfeld",
+      "messages": [],
+      "total_additions": 10,
+      "total_deletions": 0,
+      "accepted_lines": 5763,
+      "overriden_lines": 0
+    }
+  }
+}
